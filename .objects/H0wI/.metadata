@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge challenge.xlsx",
+  "Type": "App",
+  "Id": "H0wIvAwNqkqxjDRWyZizVw",
+  "Reference": "TPBXdLwILEeP_wZKqsykVg/H0wIvAwNqkqxjDRWyZizVw",
+  "Created": "2025-08-11T21:02:34.486654Z",
+  "Updated": "2025-08-11T21:02:34.486654Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

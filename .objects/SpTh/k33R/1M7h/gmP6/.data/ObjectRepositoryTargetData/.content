@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oRdAPyxvdkms6SUzawDAdQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="9e5ef03c-2b1c-4c6a-a318-16b594121c9d" CvElementArea="646, 802, 367, 57" CvType="InputBox" DesignTimeRectangle="654, 789, 354, 69" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl name='QvY0r' tag='INPUT' type='' class='ng-untouched ng-pristine ng-invalid' aaname='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="1dc9c288-8edf-4eaa-9e28-6b82b07a435d" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9e5ef03c-2b1c-4c6a-a318-16b594121c9d" CvTextArea="652, 763, 152, 21" CvTextArgument="Company Name" CvType="Text" DesignTimeRectangle="654, 760, 150, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Company Name' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Company Name' /&gt;" Guid="db5a0910-7ac8-4163-9d2a-ad57d3f19ac1" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="66945f30c2bdde57f23d8dff0277faf7.png" xmlns="">0SbLsRpnM9Eq3k1XchjGT8w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

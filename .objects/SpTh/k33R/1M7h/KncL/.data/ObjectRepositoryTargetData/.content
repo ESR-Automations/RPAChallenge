@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="733h8c2xdUSlMKwcLS_Tpw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="9e5ef03c-2b1c-4c6a-a318-16b594121c9d" CvElementArea="1034, 665, 367, 61" CvType="InputBox" DesignTimeRectangle="1041, 657, 354, 68" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl name='4M6qT' tag='INPUT' type='' class='ng-untouched ng-pristine ng-invalid' aaname='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="a9119b66-ba47-43cc-b474-f0a968b6a0c8" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9e5ef03c-2b1c-4c6a-a318-16b594121c9d" CvTextArea="1039, 631, 97, 16" CvTextArgument="First Name" CvType="Text" DesignTimeRectangle="1041, 628, 96, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='First Name' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='First Name' /&gt;" Guid="bf7a8239-2f96-43fc-a564-cf791ebd1159" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e5cf24cc2dfaf13c9706d42e8e5dd970.png" xmlns="">0HMmaKa_cmESNkvZwrIUdzw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

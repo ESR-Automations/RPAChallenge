@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge challenge.xlsx",
+  "Type": "Screen",
+  "Id": "VSYhs5a2v0OjP3WWKnFJeA",
+  "Reference": "TPBXdLwILEeP_wZKqsykVg/VSYhs5a2v0OjP3WWKnFJeA",
+  "ParentRef": "TPBXdLwILEeP_wZKqsykVg/Wy3i1T3AtEa1xZmUUQiHrA",
+  "Created": "2025-08-11T21:02:34.5793319Z",
+  "Updated": "2025-08-11T21:02:34.5793319Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

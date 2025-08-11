@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KMZFsllwgkGz1G5lztT0aA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="view.officeapps.live.com/op/view.aspx" CVScreenId="f8efd5bf-d788-4503-8234-e152e7158436" CvElementArea="798, 130, 112, 29" CvTextArea="815, 138, 77, 12" CvTextArgument="Download file" CvType="Button" DesignTimeRectangle="800, 133, 108, 24" ElementType="Button" FullSelectorArgument="&lt;ctrl name='challenge.xlsx - Microsoft Edge' role='pane' /&gt;&lt;ctrl name='Infobar Container' role='grouping' /&gt;&lt;ctrl name='Download file' role='push button' /&gt;" Guid="cb5ea0f9-2456-4079-8c4b-3c3492e343ec" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='challenge.xlsx and 10 more pages - Personal - Microsoft​ Edge' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3b6f6296cc336e163dfd4b2dca7b1930.png" xmlns="">0AvphjsZG-EiL1p_1XJD--Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

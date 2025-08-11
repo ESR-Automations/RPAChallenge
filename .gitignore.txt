@@ -2,6 +2,7 @@
 .local/
 .screenshots/
 .settings/
+Data/
 *.log
 *.tmp
 *.user

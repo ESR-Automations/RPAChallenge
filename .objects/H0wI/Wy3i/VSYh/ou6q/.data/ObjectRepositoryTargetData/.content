@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="s04N_eUUU0a5O4TjvlN-3g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="view.officeapps.live.com/op/view.aspx" CVScreenId="17bbbd45-9376-4b32-864d-3f6bcf5acb81" CvType="AnyWordGroup" DesignTimeRectangle="111, 274, 101, 36" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='wacframe' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl parentid='documentTitle' tag='SPAN' type='' class='documentTitle-276' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="15e3c52a-b47a-4a2a-950e-efec665c5839" ScopeSelectorArgument="&lt;html app='msedge.exe' title='challenge.xlsx' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="17bbbd45-9376-4b32-864d-3f6bcf5acb81" CvElementArea="245, 279, 27, 26" CvTextArea="115, 283, 90, 24" CvTextArgument="challenge" CvType="ArrowButton" DesignTimeRectangle="101, 256, 178, 72" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='wacframe' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='documentTitle' tag='BUTTON' type='button' class='fui-Button r1alrhcs ms-Button ms-ButtonNext ___ja1j660 f16xq7d1 f1e8ugpm f17suaiq fqerorx f8xlz6g figsok6 f18cy8pn fz5stix f1nbblvp f1sgzk6v f1ov4xf1 f1bg5zqg f1p3nwhy f11589ue f1q5o8ev f1pdflbu f1aa9q02 f16jpd5f f1jar5jt fyu767a f1k6fduh fux4jyw f3xh1kt fgravju f76lzvx fzrkrmn f16b050u f1h648pw f1s2uweq fr80ssc f1ukrpxl fecsdlb fitn4x5 f1t7hk3g fcezcqy f393nib f16rbbvn f1tx4pjd fu37p9p f1l1uqyl foyvcke fk59q3o f1x7sarq fm4hebn f1h0usnq fs4ktlq f16h9ulv fx2bmrt fzphvk3 ffqlviq f1vdobl1 fb8lstz f12tfzb0 f1u3j2wj f5evwcs f172rvg1 fv2omr1 fmosv5e f19teq7f f16pyme3 f1140goi f1i1e89q fcqgtnh f199nx4y f187lnhe fm2h0lr fii04ei f10slqfg f1qhl0h4 f3n1fcu f16wmbz5 f7bf1bw f1f4jgw7 f1xyzmyh ffgxstv' aaname='challenge' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='challenge&amp;#xA;' /&gt;" Guid="0d448d09-2722-46d1-b77e-722b747f92db" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d8436ef566fd20020b67ac2398aef090.png" xmlns="">0ibkQVMxwBECIhVETBEzXTg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

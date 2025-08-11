@@ -1,0 +1,9 @@
+# UiPath internal folders
+.local/
+.screenshots/
+.settings/
+*.log
+*.tmp
+*.user
+*.nupkg
+*.publishsettings
